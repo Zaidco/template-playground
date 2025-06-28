@@ -106,12 +106,13 @@ const App = () => {
       children: <TemplateMarkdown />,
     },
     {
-      key: "model",
+      key: "new model",
       label: "Concerto Model",
       children: <TemplateModel />,
     },
     {
       key: "data",
+      
       label: "Preview Data",
       children: <AgreementData />,
     },
